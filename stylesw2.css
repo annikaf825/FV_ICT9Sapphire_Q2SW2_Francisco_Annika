@@ -1,0 +1,26 @@
+h1{
+	color: #FF3EA5;
+	font-family: Consolas;
+}
+
+.container{
+	font-family: cursive;
+	font-size: 19px;
+	background-color: #474F7A;
+	width: 600px;
+	margin: auto;
+	padding: 10px;
+	border: 5px dotted #003161;
+}
+
+#submit{
+	background-color:#A6AEBF ;
+	color: white;
+}
+
+body{
+	background-image:url('https://img.freepik.com/free-vector/gradient-technology-futuristic-background_23-2149122414.jpg?semt=ais_hybrid');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
